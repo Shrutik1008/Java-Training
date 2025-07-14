@@ -18,6 +18,8 @@ public class Atoz {
             System.out.print(ch);
         }
 
+        System.out.println();
+        sc.close();
     }
     
 }

@@ -22,6 +22,7 @@ public class ShrutikPattern {
             printK(n, i);
             System.out.println();
         }
+        sc.close();
     }
 
     static void printS(int n, int i) {

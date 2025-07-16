@@ -48,6 +48,7 @@ public class arrayop {
             default:
                 System.out.println("Invalid choice. Please select 1, 2, or 3.");
         }
+        sc.close();
     }
 
     static int[] insert(int[] arr, int index, int value) {

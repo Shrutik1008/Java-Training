@@ -1,12 +1,31 @@
 public class Stuff {
     public static void main(String[] args) {
-        int num =1;
-        int num2=3; 
-        if(num==1) {
-            System.out.println("Hello World");
-        } else {
+        int[] arr = {1,0,5,0,2,3,0,0};
+        zeroatend();
 
-            System.out.println("Goodbye World");
-        }
+
+
     }
+     static void zeroatend(){
+
+        
+        int[] arr = {1,0,5,0,2,3,0,0};
+        int count = 0;
+
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != 0) {
+                arr[count++] = arr[i];
+            }
+        }
+
+        while (count < arr.length) {
+            arr[count++] = 0;
+        }
+
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
+
+     }
+    
 }

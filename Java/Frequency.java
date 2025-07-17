@@ -1,9 +1,14 @@
 public class Frequency {
     public static void main(String[] args) {
+
         int[] arr = {1,2,2,3,3,3, 4,4,4,5};
+
         int n = arr.length;
+
         int[] freq = new int[n];
         boolean[] visited = new boolean[n];
+
+        
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
                 int count = 0;

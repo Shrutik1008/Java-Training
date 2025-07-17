@@ -1,63 +1,62 @@
-# Java-Training 🚀
+# 🚀 Java Training Program
 
 Welcome to the **Java Training Program**!  
-This repository contains daily learning logs, Java programs, and practice problems focused on building strong logic and mastering core programming concepts.
+This repository contains daily learning logs, Java programs, and practice problems focused on strengthening logic and mastering core Java programming concepts.
 
 ---
 
 ## 📅 Schedule
 
-### ✅ Day 1 (14/07/2025)
+### ✅ Day 1 – *14/07/2025*  
 **Topic:** Introduction to Programming & Java Basics  
 **Activities:**
-- Introduction to Java and its applications
-- Setting up Java environment
-- Basic logic building exercises
-- Character case conversion (e.g., `A` to `a`, `Z` to `z`)
-- Hands-on practice with simple programs
+- Overview of Java and its applications
+- Setting up the Java development environment
+- Basic logic-building exercises
+- Character case conversion (e.g., `A` → `a`, `Z` → `z`)
+- Hands-on practice with basic programs
 
 ---
 
-### ✅ Day 2 (15/07/2025)
+### ✅ Day 2 – *15/07/2025*  
 **Topic:** Pattern Printing & Number Problems  
 **Activities:**
-- Printing patterns with characters, names, and geometrical shapes
-- Solving classic number problems:
-  - Two Sum
-  - Strong Number
-  - Prime Number
-  - Perfect Number
-  - Spy Number
-  - Niven (Harshad) Number
-  - Magic Number
-  - Evil Number
-  - Emirp Number
-  - Duck Number
-  - Automorphic Number
-  - Adam Number
+- Character and geometric pattern printing
+- Classic number-based problem solving:
+  - Two Sum  
+  - Strong Number  
+  - Prime Number  
+  - Perfect Number  
+  - Spy Number  
+  - Niven (Harshad) Number  
+  - Magic Number  
+  - Evil Number  
+  - Emirp Number  
+  - Duck Number  
+  - Automorphic Number  
+  - Adam Number  
   - Palindrome
 
 ---
 
-### ✅ Day 3 (16/07/2025)
-**Topic:** Coming soon...  
-(Stay tuned for updates and advanced concepts)
+### ✅ Day 3 – *16/07/2025*  
+**Topic:** String-Based Medium Level Problems  
+**Activities:**
+- Phone Number Validation  
+- PAN Number Validation  
+- Password Validation  
+- Swapping of Vowels  
+- Moving Zeros to the End  
 
 ---
 
-## 📂 Folder Structure
+### 🔄 Day 4 – *17/07/2025*  
+**Topic:** Object-Oriented Programming (OOPs) – Bus Booking System  
+**Activities:**
+- Class and object design  
+- Bus seat booking system implementation  
+- Destination management per booking  
+- Introduction to encapsulation and basic class design  
+- Interactive console-based user input handling  
 
-```bash
-Java-Training/
-├── Day1/
-│   ├── AtoZConversion.java
-│   └── BasicPrograms.java
-├── Day2/
-│   ├── Patterns/
-│   ├── NumberProblems/
-│   │   ├── PrimeNumber.java
-│   │   ├── StrongNumber.java
-│   │   └── ...
-├── Day3/
-│   └── ComingSoon.md
-├── README.md
+---

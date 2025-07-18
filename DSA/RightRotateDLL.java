@@ -81,11 +81,11 @@ class RightRotateDLL {
         list.insert(5);
 
         System.out.print("Original List: ");
-        list.printList(); // 1 2 3 4 5
+        list.printList();
 
         list.rotateRight(2);
 
         System.out.print("After Rotating Right by 2: ");
-        list.printList(); // 4 5 1 2 3
+        list.printList();
     }
 }

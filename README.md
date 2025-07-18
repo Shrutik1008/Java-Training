@@ -54,9 +54,8 @@ This repository contains daily learning logs, Java programs, and practice proble
 **Topic:** Object-Oriented Programming (OOPs) – Bus Booking System  
 **Activities:**
 - Class and object design  
-- Bus seat booking system implementation  
-- Destination management per booking  
 - Introduction to encapsulation and basic class design  
 - Interactive console-based user input handling  
+- Bus seat booking system implementation
 
 ---

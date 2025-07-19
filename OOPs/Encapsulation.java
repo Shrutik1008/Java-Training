@@ -19,7 +19,7 @@ public class Encapsulation {
 
         public String setName(String name){
             this.name = name;
-            return name;
+            return  name;
         }
 
         public int getage(){

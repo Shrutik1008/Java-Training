@@ -1,3 +1,0 @@
-package DSA;
-
-LeftRotate

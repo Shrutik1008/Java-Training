@@ -11,7 +11,6 @@ public class Twosum {
 
             
             if (sum == target) {
-                System.out.println("Pair found: " + arr[left] + " + " + arr[right] + " = " + target);
                 System.out.println("["+ arr[left] + "," + arr[right]+"]");
                 return;
             } else if (sum < target) {

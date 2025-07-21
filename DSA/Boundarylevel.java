@@ -33,6 +33,14 @@ public class Boundarylevel {
 
         }
 
+        public void Traverse(){
+            if(Root!=null){
+                System.out.println(Root.data);
+                System.out.println("Left Traversal");
+                
+
+        }
+
 
     }
 }

@@ -5,10 +5,9 @@ This repository contains daily learning logs, Java programs, and practice proble
 
 ---
 
-## 🗓️ Schedule
+## 📅 Schedule
 
-### ✅ Day 1 – *14/07/2025*
-
+### ✅ Day 1 – *14/07/2025*  
 **Topic:** Introduction to Programming & Java Basics  
 **Activities:**
 - Overview of Java and its applications  
@@ -19,12 +18,11 @@ This repository contains daily learning logs, Java programs, and practice proble
 
 ---
 
-### ✅ Day 2 – *15/07/2025*
-
+### ✅ Day 2 – *15/07/2025*  
 **Topic:** Pattern Printing & Number Problems  
 **Activities:**
 - Character and geometric pattern printing  
-- Classic number-based problem solving:
+- Classic number-based problems:
   - Two Sum  
   - Strong Number  
   - Prime Number  
@@ -41,8 +39,7 @@ This repository contains daily learning logs, Java programs, and practice proble
 
 ---
 
-### ✅ Day 3 – *16/07/2025*
-
+### ✅ Day 3 – *16/07/2025*  
 **Topic:** String-Based Medium Level Problems  
 **Activities:**
 - Phone Number Validation  
@@ -53,49 +50,56 @@ This repository contains daily learning logs, Java programs, and practice proble
 
 ---
 
-### ✅ Day 4 – *17/07/2025*
-
-**Topic:** Object-Oriented Programming (OOPs) & Introduction to DSA  
+### ✅ Day 4 – *17/07/2025*  
+**Topic:** OOPs & Introduction to DSA  
 **Activities:**
-- Class and object design  
+- Class and Object design  
 - Encapsulation and basic class structures  
-- Interactive console-based user input handling  
-- Bus seat booking system implementation  
-- Introduction to Data Structures and Algorithms  
-- Stack concepts with basic problems  
-- Array concepts with basic problems  
+- User input with Scanner  
+- Bus Seat Booking System  
+- Intro to Stack & basic problems  
+- Intro to Arrays & basic problems  
 
 ---
 
-### ✅ Day 5 – *18/07/2025*
-
-**Topic:** Queue & Linked List Concepts with Problems  
+### ✅ Day 5 – *18/07/2025*  
+**Topic:** Queue & Linked List Concepts  
 **Activities:**
-- Queue implementation using array and linked list  
-- Queue operations: enqueue, dequeue, peek, isEmpty  
-- Basic problems on queues and linked lists  
-- Introduction to Doubly Linked List  
-- Doubly Linked List implementation  
-- Doubly Linked List operations: insert, delete, search  
-- Basic problems on Doubly Linked List  
+- Queue using Array and Linked List  
+- Queue operations: Enqueue, Dequeue, Peek, isEmpty  
+- Problems on Queues and Linked Lists  
+- Doubly Linked List: Insert, Delete, Search  
 
 ---
 
-### ✅ Day 6 – *19/07/2025*
-
-**Topic:** Doubly Linked List, Circular Linked List, and Sorting Algorithms  
+### ✅ Day 6 – *19/07/2025*  
+**Topic:** DLL, CLL & Sorting  
 **Activities:**
-- Implementation of Doubly Linked List  
-- Implementation of Circular Linked List  
-- Sorting algorithms:
+- DLL and Circular Linked List Implementation  
+- Sorting Algorithms:
   - Bubble Sort  
   - Selection Sort  
   - Insertion Sort  
   - Merge Sort  
   - Quick Sort  
-- Problems on DLL:
+- DLL Problems:
   - Left Rotate  
   - Right Rotate  
-  - Palindrome check using DLL  
+  - Palindrome using DLL  
 
 ---
+
+### ✅ Day 7 – *21/07/2025*  
+**Topic:** Trees  
+**Activities:**
+- Binary Tree Implementation  
+- Sum of Odd, Even, and Prime Nodes  
+- Alphabetical Arrangement of Words in a Sentence  
+- Binary Search Tree (BST) Implementation  
+- Operations: Insert, Delete, Search  
+- Height and Level Calculation  
+- Boundary Elements of Tree  
+- BST Validation  
+
+---
+### ✅ Day 8 – *22/07/2025*

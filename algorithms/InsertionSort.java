@@ -27,11 +27,9 @@ public class InsertionSort {
                 arr[j+1]=arr[j];
                 j--;
             }
-
-
             arr[j+1]=current;
         }
-        System.out.println("Sorted Array Is :");
+         System.out.println("Sorted Array Is :");
         printArray(arr);
         sc.close();
     }

@@ -8,12 +8,6 @@ public class P236A {
         Scanner sc = new Scanner(System.in);    
         String Str = sc.nextLine();
 
-
-
-        String[] arr = new String[100];
-
-
-
         HashSet<Character> set = new HashSet<>();
         
         for(int i=0;i<Str.length();i++){
@@ -26,6 +20,8 @@ public class P236A {
             System.out.println("CHAT WITH HER!");
         }
 
-
+        sc.close();
     }
+
+
 }

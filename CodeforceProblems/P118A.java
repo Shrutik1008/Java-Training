@@ -13,6 +13,7 @@ public class P118A {
         String lower = Str.toLowerCase();
         removevowels(Str);
     
+            sc.close();
     }
 
     public static void removevowels(String lower){
@@ -27,6 +28,9 @@ public class P118A {
             }
 
             System.out.println(newstr);
+
+            
     }
+    
 }
 

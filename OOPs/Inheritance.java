@@ -18,8 +18,9 @@ public class Inheritance{
         }
 
 
-        public void setBrand(String brand){
+        public void setBrand(String brand,String model){
             this.brand = brand;
+            this.model =model;
             
         }
     }

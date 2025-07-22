@@ -102,4 +102,24 @@ This repository contains daily learning logs, Java programs, and practice proble
 - BST Validation  
 
 ---
-### ✅ Day 8 – *22/07/2025*
+
+### ✅ Day 8 – *22/07/2025*  
+**Topic:** Competitive Programming on Codeforces  
+**Activities:**
+- Practiced solving beginner-level problems on Codeforces  
+- Applied logic and optimization techniques  
+- Debugged and improved code for performance  
+- Problems Solved:
+  - 25A – IQ Test  
+  - 118A – String Task  
+  - 119A – Epic Game  
+  - 141A – Amusing Joke  
+  - 144A – Arrival of the General  
+  - 149A – Business Trip  
+  - 155A – I_love_%username%  
+  - 158A – Next Round  
+  - 236A – Boy or Girl  
+  - 282A – Bit++  
+  - 514A – Chewbaсca and Number  
+
+---

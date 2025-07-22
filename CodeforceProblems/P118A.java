@@ -20,7 +20,7 @@ public class P118A {
         String newstr = "";
             for (int i = 0; i < lower.length(); i++) {
                 if(lower.charAt(i)=='a' || lower.charAt(i)=='e' || lower.charAt(i)=='i' ||lower.charAt(i)=='o' ||lower.charAt(i)=='u' ||lower.charAt(i)=='y'){
-                    continue;
+                    System.out.println("");
                 }else{
                     newstr+='.';
                     newstr+=lower.toLowerCase().charAt(i);

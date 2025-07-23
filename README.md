@@ -123,3 +123,7 @@ This repository contains daily learning logs, Java programs, and practice proble
   - 514A – Chewbaсca and Number  
 
 ---
+### ✅ Day 9 – *23/07/2025*
+**Topic:** Graphs
+**Activities:**
+- Graph Implementation

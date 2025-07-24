@@ -40,7 +40,7 @@ This repository contains daily learning logs, Java programs, and practice proble
 ---
 
 ### ✅ Day 3 – *16/07/2025*  
-**Topic:** String-Based Medium Level Problems  
+**Topic:** String-Based Medium-Level Problems  
 **Activities:**
 - Phone Number Validation  
 - PAN Number Validation  
@@ -106,9 +106,9 @@ This repository contains daily learning logs, Java programs, and practice proble
 ### ✅ Day 8 – *22/07/2025*  
 **Topic:** Competitive Programming on Codeforces  
 **Activities:**
-- Practiced solving beginner-level problems on Codeforces  
+- Solved beginner-level problems on Codeforces  
 - Applied logic and optimization techniques  
-- Debugged and improved code for performance  
+- Debugged and improved code performance  
 - Problems Solved:
   - 25A – IQ Test  
   - 118A – String Task  
@@ -123,7 +123,33 @@ This repository contains daily learning logs, Java programs, and practice proble
   - 514A – Chewbaсca and Number  
 
 ---
-### ✅ Day 9 – *23/07/2025*
-**Topic:** Graphs
+
+### ✅ Day 9 – *23/07/2025*  
+**Topic:** Graphs  
 **Activities:**
-- Graph Implementation
+- Graph Implementation  
+- Graph operations:
+  - Node Insertion  
+  - Node Deletion (Start, Specific Node)  
+- Graph Algorithms:
+  - Basic Structure  
+  - BFS  
+  - DFS  
+  - Searching  
+  - Traversal  
+
+---
+
+### ✅ Day 10 – *24/07/2025*  
+**Topic:** Competitive Programming Questions & Sliding Window Approach  
+**Activities:**
+- Implemented:
+  - Inorder, Preorder, Postorder without recursion  
+  - Delete specific node from undirected graph  
+  - Infix to Postfix and Infix to Prefix using stack  
+  - Sort Singly Linked List  
+  - Reverse a Linked List  
+- Sliding Window Technique:
+  - Solved LeetCode problems like #3, #165, #322, #643  
+  - Optimized time complexity in multiple problems  
+---

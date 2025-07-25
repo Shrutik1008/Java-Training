@@ -53,7 +53,7 @@ This repository contains daily learning logs, Java programs, and practice proble
 ### ✅ Day 4 – *17/07/2025*  
 **Topic:** OOPs & Introduction to DSA  
 **Activities:**
-- Class and Object design  
+- Class and Object Design  
 - Encapsulation and basic class structures  
 - User input with Scanner  
 - Bus Seat Booking System  
@@ -75,7 +75,7 @@ This repository contains daily learning logs, Java programs, and practice proble
 ### ✅ Day 6 – *19/07/2025*  
 **Topic:** DLL, CLL & Sorting  
 **Activities:**
-- DLL and Circular Linked List Implementation  
+- DLL and Circular Linked List implementation  
 - Sorting Algorithms:
   - Bubble Sort  
   - Selection Sort  
@@ -128,7 +128,7 @@ This repository contains daily learning logs, Java programs, and practice proble
 **Topic:** Graphs  
 **Activities:**
 - Graph Implementation  
-- Graph operations:
+- Graph Operations:
   - Node Insertion  
   - Node Deletion (Start, Specific Node)  
 - Graph Algorithms:
@@ -152,4 +152,21 @@ This repository contains daily learning logs, Java programs, and practice proble
 - Sliding Window Technique:
   - Solved LeetCode problems like #3, #165, #322, #643  
   - Optimized time complexity in multiple problems  
+
+---
+
+### ✅ Day 11 – *25/07/2025*  
+**Topic:** Dynamic Programming Problems on LeetCode  
+**Activities:**
+- Implemented dynamic programming approach  
+- Applied DP in various LeetCode problems  
+- Found optimal solutions with reduced time complexity  
+- Problems Solved:
+- 70 - Climbing Stairs
+- 62 - Unique Paths
+- 53 - Maximum Subarray
+- 198 - House Robber
+- 152 - Maximum Product Subarray
+- 213 - House Robber II
+- 322 - Coin Change
 ---

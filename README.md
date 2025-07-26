@@ -162,11 +162,30 @@ This repository contains daily learning logs, Java programs, and practice proble
 - Applied DP in various LeetCode problems  
 - Found optimal solutions with reduced time complexity  
 - Problems Solved:
-- 70 - Climbing Stairs
-- 62 - Unique Paths
-- 53 - Maximum Subarray
-- 198 - House Robber
-- 152 - Maximum Product Subarray
-- 213 - House Robber II
-- 322 - Coin Change
+  - 70 - Climbing Stairs  
+  - 62 - Unique Paths  
+  - 53 - Maximum Subarray  
+  - 198 - House Robber  
+  - 152 - Maximum Product Subarray  
+  - 213 - House Robber II  
+  - 322 - Coin Change  
+
 ---
+
+### ✅ Day 12 – *26/07/2025*  
+**Topic:** LeetCode Questions + Test Based on Curriculum  
+**Activities:**
+- Problems Solved in Test:
+  - Sherlock and The Beast  
+  - Save the Prisoner!  
+  - Grid Challenge  
+  - Migratory Birds  
+  - Beautiful Days at the Movies  
+  - Tree: Height of a Binary Tree  
+  - Roads and Libraries  
+  - Staircase  
+  - Climbing the Leaderboard  
+  - Lisa's Workbook  
+  - Cats and a Mouse  
+  - Electronics Shop  
+  - Between Two Sets  

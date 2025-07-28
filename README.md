@@ -1,7 +1,7 @@
-# 🚀 Java Training Program
+# 🚀 12 Days Java Training Program - Offline
 
-Welcome to the **Java Training Program**!  
-This repository contains daily learning logs, Java programs, and practice problems focused on strengthening logic and mastering core Java programming concepts.
+Welcome to the my **Java Training Program**!  
+This repository contains my daily learning logs, Java programs, and practiced DSA and OOPs problems completed during my college training program, focused on strengthening logical thinking and mastering core Java programming concepts.
 
 ---
 
